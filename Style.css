@@ -1,0 +1,99 @@
+.c1 {
+  border: 3px solid black;
+  height: 150px;
+  width: 250px;
+  /* background-color: rgb(235, 23, 23);
+    background-color: rgba(255,0, 0,0.7);
+    background-color: #a1b1c1;
+    background-color:#00aabb;
+    background-color: #00162b3a; */
+  /* background-image: url("https://www.planetware.com/wpimages/2020/02/france-in-pictures-beautiful-places-to-photograph-eiffel-tower.jpg");
+  background-repeat: no-repeat;
+  background-size: cover; */
+}
+.c2 {
+  border: 3px solid black;
+  /* height: 150px; */
+  width: 250px;
+  padding: 10px;
+  margin: 50px;
+  /* background-color: rgb(235, 23, 23);
+  background-color: rgba(255, 0, 0, 0.7);
+  background-color: #a1b1c1;
+  background-color: #00aabb;
+  background-color: #00162b3a; */
+  /* background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRet1cEqlO1n_7lV-zGMwHXpKnzHqcmgqmcGA&s");
+  background-repeat: no-repeat;
+  background-size: cover; */
+  text-align: center;
+  text-align: right;
+  text-align: justify;
+}
+/* body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRet1cEqlO1n_7lV-zGMwHXpKnzHqcmgqmcGA&s");
+  background-repeat: no-repeat;
+  background-size: cover;
+} */
+#myHeading{
+    text-decoration-line:overline ;
+    text-decoration-line:line-through ;
+    text-decoration-line:underline ;
+    text-decoration-color:blue ;
+    text-transform: capitalize;
+    text-transform: uppercase;
+    text-transform: lowercase;
+    text-decoration: none;
+    text-indent: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-style: oblique;
+    font-size: 5px;
+    
+
+}
+.para{
+    /* letter-spacing: 2px;
+    line-height:30px ;
+    word-spacing:25px ;
+    white-space: nowrap; */
+}
+
+/* a{
+    background-color: dodgerblue;
+    display: inline-block;
+    
+} */
+ .btn{
+  display: inline-block;
+  background-color: black;
+  text-decoration: none;
+  padding: 10px;
+  color: gold;
+  border-radius: 25px;
+  box-shadow: 0 0 10px  black;
+  margin-top: 25px;
+  width: 100px;
+  text-align: center;
+ }
+
+ .btn2{
+  color: black;
+  text-decoration: none;
+
+ }
+ .btn2:link{
+  color: black;
+  text-decoration: none;
+
+ }
+ .btn2:visited{
+  color: green;
+ }
+ .btn:hover{
+  color: orangered;
+ }
+ btn:active{
+  color: yellow;
+ }
+
+
